@@ -1,6 +1,6 @@
 # Easy - Micro-CMS v1
 
-**Difficulty:** Easy 
+**Difficulty:** Easy  
 **Category:** Web Security  
 **Flags:** 4/4  
 **Platform:** Hacker101 CTF
